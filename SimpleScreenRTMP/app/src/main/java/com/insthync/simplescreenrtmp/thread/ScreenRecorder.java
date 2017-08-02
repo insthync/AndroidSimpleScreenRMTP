@@ -1,4 +1,4 @@
-package com.insthync.simplescreenrtmp;
+package com.insthync.simplescreenrtmp.thread;
 
 import android.hardware.display.DisplayManager;
 import android.hardware.display.VirtualDisplay;
